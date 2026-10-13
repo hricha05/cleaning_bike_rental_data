@@ -1,0 +1,1 @@
+CREATE DATABASE citibike OWNER app_owner;
